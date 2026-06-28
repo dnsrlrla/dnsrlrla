@@ -1,0 +1,8 @@
+skills badge
+https://github.com/Envoy-VC/awesome-badges
+
+baekjoon tier badge
+https://github.com/mazassumnida/mazassumnida
+
+language stat
+https://github.com/anuraghazra/github-readme-stats
