@@ -2,8 +2,8 @@
 
 📝 Language
 
-![Python.](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java.](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python.](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#.](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 🖥 Front-End
@@ -15,16 +15,18 @@
 
 ⚙️ Back-End
 
-![Spring Boot.](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot.](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Elasticsearch.](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 📚 DBMS
 
 ![MySQL.](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL.](https://img.shields.io/badge/AAAAA-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL.](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ##
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kku123)](https://solved.ac/kku123)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dnsrlrla&layout=compact&langs_count=4&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=dnsrlrla&layout=compact&langs_count=4&theme=graywhite)
 ##
 
 <!--
