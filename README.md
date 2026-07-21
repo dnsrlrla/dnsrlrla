@@ -1,4 +1,6 @@
+**문제의 원인을 분석하고 더 나은 해결책을 고민하는 개발자 김기운입니다.**
 
+## 🛠 Tech Stack
 
 📝 Language
 
@@ -23,7 +25,7 @@
 ![MySQL.](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL.](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-##
+## 📊 stats
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kku123)](https://solved.ac/kku123)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dnsrlrla&layout=compact&langs_count=4&theme=graywhite&hide=html)](https://github-stats-extended.vercel.app/api/top-langs?username=dnsrlrla&layout=compact&langs_count=4&theme=graywhite)
 
